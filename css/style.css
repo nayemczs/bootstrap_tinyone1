@@ -1,0 +1,186 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+    
+    font-family: 'PT Sans', sans-serif;
+}
+header{
+    background-color: #fcdb00
+    
+}
+
+.custom_nav ul li a{
+    
+   font-size: 22px;
+    font-weight: bold;
+    padding: 0 70px !important;
+    
+    
+}
+.custom_nav{
+    padding: 70px 0;
+    
+    
+}
+.custom_nav ul li:last-child a{
+padding-right: 0 !important;
+}
+    
+/* banner start   */
+
+
+.banner{
+     background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.banner_content {
+    margin-top: 80px;
+    
+}
+.banner_content h1{
+    color: #010101;
+    font-size: 32px;
+    font-weight: bold;
+}
+.para1{
+    font-size: 20px;
+}
+.para2{
+    font-size: 16px;
+    
+}
+.icon ul li i{
+    font-size: 40px;
+    padding: 0 10px;
+}
+.icon ul li:first-child i{
+    
+    padding: 0;
+}
+.banner_img{
+    margin-left: 40px;
+    
+}
+
+/* banner end   */
+/* service start   */
+
+.service{
+    padding: 100px 0;
+    
+}
+.service_header{
+     
+    
+}
+.service_header h1{
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+.service_header p{
+    
+    font-size: 20px;
+  
+}
+
+.service_footer{
+    margin-top: 70px;
+    
+}
+.img_style{
+    margin-top: 5px;
+    text-align: center !important;
+}
+
+.custom_service{
+    
+    
+}
+.custom_service h4{
+ font-size: 20pt;
+   
+}
+
+/* service end   */
+
+/* footer start   */
+
+
+footer{
+background-color: black;
+    
+}
+
+.footer_top{
+padding: 100px 0px;
+text-align: center;    
+}
+
+.footer_top h1{
+color: yellow;
+    font-size: 32pt;
+    font-weight: bold;
+    
+}
+
+
+.footer_top p{
+font-size: 20pt;
+    margin-bottom: 50px;
+}
+.form_group{
+    text-align: center;
+    
+}
+.footer_custom_btn{
+    background-color: yellow;
+    margin-left: 20px;
+    padding: 15px 50px;
+    border: none;
+    color: black;
+}
+.footer_custom_input{
+    
+    padding: 15px 530px 15px 20px !important;
+}
+.icon2{
+    margin-top: 100px;
+    
+}
+.icon2 ul li img{
+    margin-right: 30px;
+    
+}
+
+.footer_bottom{
+    color: #ffffff ;
+    font-size: 16pt;
+    margin-top: 20px;
+}
+.footer_bottom_style1{
+    margin-left: 70px;
+    
+}
+
+
+/* footer end   */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
